@@ -4,6 +4,7 @@ E-commerce customer segmentation project using RFM Analysis (Recency, Frequency,
 The E-commerce store had a large customer base but didn't know which customers were "VIPs" and which were about to "Churn."
 
 # The Solution:
+
 > * Data Processing: Used R to clean and transform raw transaction logs.
 
 RFM Modeling:Calculated Recency, Frequency, and Monetary scores to segment customers into 5 groups (e.g., Champions, At-Risk, Loyal).
